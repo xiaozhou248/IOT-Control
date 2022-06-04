@@ -1,5 +1,6 @@
 # IOT-Control
 一个基于PHP+HTML制作的物联网控制台
+初中生项目，制作粗糙
 
 Demo: https://control.xiaozhou1024.xyz
 
